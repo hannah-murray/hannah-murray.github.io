@@ -26,25 +26,25 @@ author:
   avatar           : "profile.png"
   name             : "Hannah Murray"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "CS PhD Candidate"
   location         : "Los Angeles, California"
   employer         : "University of Southern California"
   uri              : "https://hannah-murray.github.io"
   email            : "hannahmu@usc.edu" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : # URL
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  # academia         : # URL
+  # arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=e0_QFkQAAAAJ&hl=en"
+  # inspire-hep      : # URL
+  # impactstory      : # URL
+  orcid            : "https://orcid.org/0009-0003-5518-5858"
+  # semantic         : # URL
+  # ssrn             : # URL
+  # pubmed           : # URL
+  # researchgate     : # URL
+  # scopus           : # URL
+  # zotero           : # URL
 
 
   # # Repositories and software development
